@@ -27,18 +27,18 @@
  
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdumannon-python&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdumannon-rabbimqulov&show_icons=true&theme=tokyonight&hide_border=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdumannon-python&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdumannon-rabbimqulov&layout=compact&theme=tokyonight&hide_border=true)
  
 </div>
  
 ## 🚀 Featured Projects
  
-### 📝 [Project2_blog](https://github.com/abdumannon-python/Project2_blog)
+### 📝 [Project2_blog](https://github.com/abdumannon-rabbimqulov/Project2_blog)
 Django blogging platform with full CRUD, user authentication, and admin panel
  
-### 🛒 [Project_shop](https://github.com/abdumannon-python/Project_shop)
+### 🛒 [Project_shop](https://github.com/abdumannon-rabbimqulov/Project_shop)
 E-commerce solution with product catalog and shopping cart functionality
  
 ## 📫 Connect with Me
@@ -55,7 +55,7 @@ E-commerce solution with product catalog and shopping cart functionality
  
 <div align="center">
  
-![Profile Views](https://komarev.com/ghpvc/?username=abdumannon-python&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abdumannon-rabbimqulov&color=blue&style=flat-square)
  
 **Thanks for visiting!** ⭐
  
