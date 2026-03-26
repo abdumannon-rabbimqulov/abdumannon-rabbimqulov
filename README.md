@@ -8,9 +8,9 @@
  
 ## 💼 About Me
  
-**Junior Backend Developer** passionate about building robust web applications with Python. Recently completed an intensive 8-month Backend Development course at **Najot Ta'lim**.
+**Backend Developer** passionate about building robust web applications with Python. Recently completed an intensive 8-month Backend Development course at **Najot Ta'lim**.
  
-- 🔭 Currently working on **Django and FastAPI projects**
+- **Django and FastAPI projects**
 - 🌱 Learning **microservices architecture and advanced Python patterns**
 - 👯 Open to collaborate on **open-source projects**
 - 💬 Ask me about **Python, Django, FastAPI, REST APIs**
@@ -24,16 +24,7 @@
 **DevOps:** Docker, Git, Linux
  
  
-## 🚀 Featured Projects
- 
-### 📝 [Project2_blog](https://github.com/abdumannon-rabbimqulov/Project2_blog)
-Django blogging platform with full CRUD, user authentication, and admin panel
- 
-### 🛒 [Project_shop](https://github.com/abdumannon-rabbimqulov/Project_shop)
-E-commerce solution with product catalog and shopping cart functionality
- 
-## 📫 Connect with Me
- 
+
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdumannon-rabbimqulov-944a8039a/)
