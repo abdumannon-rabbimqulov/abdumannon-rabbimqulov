@@ -18,8 +18,10 @@
  
 ## 🛠️ Tech Stack
  
-**Languages:** Python  
-**Frameworks:** Django, FastAPI, Aiogram  
+**Languages:** Python
+
+**Frameworks:** Django, FastAPI, Aiogram
+
 **Databases:** PostgreSQL, SQLite, Redis
 
 **DevOps:** Docker, Git, Linux
