@@ -20,7 +20,7 @@
  
 **Languages:** Python  
 **Frameworks:** Django, FastAPI, Aiogram  
-**Databases:** PostgreSQL, SQLite, Redis 
+**Databases:** PostgreSQL, SQLite, Redis
 **DevOps:** Docker, Git, Linux
  
  
